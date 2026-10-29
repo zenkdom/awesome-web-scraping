@@ -2,7 +2,11 @@
 
 List of packages, services, and manuals related to web scraping.
 
+## Web Scraping Service / Platform
+* [Parse Everything](https://parse-everything.com) - High-performance web extraction API with TLS JA3/JA4 browser impersonation, Cloudflare Turnstile, Akamai & DataDome bypass, and official [Python SDK](https://pypi.org/project/parse-everything/).p
+
 ## Topics
+
 
 * [Python](https://github.com/lorien/web-scraping/blob/master/python.md) - Python packages
 * [PHP](https://github.com/lorien/web-scraping/blob/master/php.md) - PHP packages
